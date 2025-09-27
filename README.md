@@ -13,6 +13,4 @@ This repository contains a simple HTML newsletter landing page.
 - Inline CSS for other styling (margins, colors, fonts)
 
 ## How to View
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/arpi19arpi/hw2.git
+   https://arpi19arpi.github.io/hw2/
